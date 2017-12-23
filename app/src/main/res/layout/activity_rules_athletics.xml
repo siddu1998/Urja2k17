@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_rules_athletics"
+    android:background="@drawable/urjasplash2"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.siddartha.maram.sai.Rules_athletics">
+<TextView
+    android:textStyle="bold"
+    android:textSize="17dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="All Events To follow Standard International Rules as mentioned by Internaional Athletic Federations"
+    android:textColor="@android:color/white"
+    />
+</ScrollView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ad__basketball"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/avon2"
+    tools:context="com.siddartha.maram.sai.Ad_Basketball">
+
+    <Button
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:text="X"
+        android:id="@+id/skip_basketball_ad"
+        android:layout_alignParentRight="true"
+        android:background="@android:color/holo_orange_dark"
+        />
+
+
+</RelativeLayout>

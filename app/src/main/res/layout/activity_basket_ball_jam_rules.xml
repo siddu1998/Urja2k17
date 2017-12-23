@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/black"
+    android:orientation="vertical"
+    android:id="@+id/activity_basket_ball_jam_rules"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.siddartha.maram.sai.Basket_ball_jam_rules">
+
+    <LinearLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BASKETBALL JAM RULES"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:paddingBottom="16dp"
+        android:textSize="20dp"/>
+        <TextView
+        android:textColor="@android:color/darker_gray"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:textStyle="bold"
+    android:text="The match consists of two teams having 3 players each(depends on which pool your team is).
+Game will be played for 10 minutes. Match consists of 21 points.If a team scores 21 points before 10 minutes, the math will be considered over.If the ball goes out of the boundary, then ball will start from the start line.
+After every point scored, the opposite team will start game from the 3-point line.If shot attempted by attacking team touches ring, board or net, then defending team will have to take rebounded ball outside 3-point line during game play.If rebound is again taken by attacking team then they don’t need to take the ball outside 3-point line.
+
+" />
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/jam"
+        android:scaleType="centerCrop"/>
+    </HorizontalScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+        android:textStyle="bold"
+        android:text="
+There will be seperate fixtures of both the pools. Winner of POOL B will then play with only 2 of their 3 male players. The third player will be a girl(the girl can be either from any of the losing sides of POOL A or it can be any, depending completely on the discretion of the winner of POOL B).
+Thus, finals will be played between the winners of both the pools, thereby bringing out the ultimate winner.
+"/>
+</LinearLayout>
+</ScrollView>

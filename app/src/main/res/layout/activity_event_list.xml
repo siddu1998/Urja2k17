@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_event_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context="com.siddartha.maram.sai.Event_list">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/armyinformals"
+        android:id="@+id/army_informals"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Army Informals"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One great chance to witness the Indian Army at it's best"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="25dp"
+            android:layout_marginBottom="20dp"
+
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#FFEFEB9A"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/blood"
+        android:id="@+id/blood_donation_camp"
+        android:layout_marginBottom="9dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Blood Donation Drive"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Three life saved!"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="25dp"
+            />
+        <Button
+            android:id="@+id/volunteer_connecting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Volunteer"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#FFEFEB9A"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/deafanddumb"
+        android:id="@+id/self_defance_and_cardio_workshop"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Deaf and Dumb Play"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Watch the amazing display of artists with special abitilies"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="25dp"
+            />
+        <Button
+            android:id="@+id/volunteer_deaf_connecting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+            android:text="Volunteer"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#FFEFEB9A"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            />
+    </LinearLayout>
+
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bikes"
+        android:id="@+id/bike_show"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bike Show"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vroom!! Vroom!..time to watch some scary stunts"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="25dp"
+
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#FFEFEB9A"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/magic"
+        android:id="@+id/magicShow"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Avada Kadabra"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Limited Seats!! MAGIC SHOW here, Hurry and get ready to witness magic at its best with."
+            android:textColor="@android:color/darker_gray"
+            android:textSize="25dp"
+            />
+        <Button
+            android:id="@+id/register_for_magic_show"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+            android:text="Register NOW"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#FFEFEB9A"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

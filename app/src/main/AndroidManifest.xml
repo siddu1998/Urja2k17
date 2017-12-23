@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.siddartha.maram.sai">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="URJA 2K17"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.siddartha.maram.sai.SplashScreen"
+            android:label=" ">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.siddartha.maram.sai.MainActivity" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_cricket"
+            android:label="Our Sponsor" />
+        <activity
+            android:name="com.siddartha.maram.sai.Cricket"
+            android:label="Cricket" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_football"
+            android:label="Our Sponsor" />
+        <activity
+            android:name="com.siddartha.maram.sai.Football"
+            android:label="Futsal" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_athletic"
+            android:label="Our Sponsor" />
+        <activity
+            android:name="com.siddartha.maram.sai.Athletic"
+            android:label="Athletics" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_tennis"
+            android:label="Our Sponsor" />
+        <activity
+            android:name="com.siddartha.maram.sai.Tennis"
+            android:label="Tennis" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_badmainton"
+            android:label="Our Sponsor" />
+        <activity
+            android:name="com.siddartha.maram.sai.Badmainton"
+            android:label="Badminton" />
+        <activity
+            android:name="com.siddartha.maram.sai.About"
+            android:label="About Us" />
+
+        <service android:name="com.siddartha.maram.sai.MyFirebaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.siddartha.maram.sai.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_Basketball"
+            android:label="Our Sponsors" />
+        <activity
+            android:name="com.siddartha.maram.sai.Basketball"
+            android:label="Basketball" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_tableTennis"
+            android:label="Our Sponsors" />
+        <activity
+            android:name="com.siddartha.maram.sai.Table"
+            android:label="Table Tennis" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_volleyball"
+            android:label="Our Sponsors" />
+        <activity
+            android:name="com.siddartha.maram.sai.Volleyball"
+            android:label="VolleyBall" />
+        <activity
+            android:name="com.siddartha.maram.sai.Lan_gaming"
+            android:label="Lan Gaming" />
+        <activity
+            android:name="com.siddartha.maram.sai.Ad_lan_gaming"
+            android:label="Our Sponsors" />
+        <activity
+            android:name="com.siddartha.maram.sai.Event_list"
+            android:label="Events" />
+        <activity
+            android:name="com.siddartha.maram.sai.Main2Activity"
+            android:label="Urja 2K17"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rp_singh"
+            android:label="Rudra Pratab Singh" />
+        <activity
+            android:name="com.siddartha.maram.sai.Deepa_malik"
+            android:label="Deepa Malik" />
+        <activity
+            android:name="com.siddartha.maram.sai.Workshop"
+            android:label="Workshops" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_cricket"
+            android:label="BattleField Cricket Rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Basket_ball_jam_rules"
+            android:label="NBA Jam rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_badmainton"
+            android:label="Badminton Rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_football"
+            android:label="Futsal Rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_tennis"
+            android:label="Tennis Rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_TT"
+            android:label="Table Tennis Rules" />
+        <activity
+            android:name="com.siddartha.maram.sai.Rules_Volleyball"
+            android:label="Volleyball Rules" />
+        <activity android:name="com.siddartha.maram.sai.Rules_athletics" />
+        <activity android:name="com.siddartha.maram.sai.About_urja_team_core" />
+        <activity android:name="com.siddartha.maram.sai.Big_day"
+            android:label="Inter College Events"/>
+        <activity android:name="com.siddartha.maram.sai.Rule_big" />
+        <activity android:name="com.siddartha.maram.sai.interintra"></activity>
+    </application>
+
+</manifest>

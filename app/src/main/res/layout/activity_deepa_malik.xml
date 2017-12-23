@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_deepa_malik"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@android:color/black"
+    tools:context="com.siddartha.maram.sai.Deepa_malik">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="40dp"
+        android:layout_height="wrap_content"
+        android:text="Deepa Malik"
+        android:layout_marginBottom="12dp"
+        android:textStyle="bold"
+        android:textColor="#FFEFEB9A"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FFEFEB9A"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="9dp"
+        android:layout_marginBottom="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+       android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Join us to listen the wonderful journey of Deepa Malik Listen to her story straight from her. She is an inspiration to millions and we wish you will be there to witness the legend in our Campus"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="So dont miss Deepa Malik as she comes down to URJA 2K17"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/deepa_live"
+        android:src="@drawable/deepalive"
+        android:text="WATCH Deepa at his best"/>
+</LinearLayout>
+
+</ScrollView>

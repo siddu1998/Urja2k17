@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_rule_book"
+    android:layout_width="match_parent"
+    android:background="@android:color/black"
+    android:layout_height="match_parent"
+    tools:context="com.siddartha.maram.sai.Rule_big">
+    <TextView
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+
+        android:maxLines="2000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SPORTS COMPETITIONS\n\n\n\n
+URJA has an endeavour to provide a national platform to the youth to\n
+showcase their talents and skill sets in fierce competitions. It will\n
+enhance sportsmanship amongst youth.\n\n\n
+We plan to organize the following sports in URJA:\n
+1. Athletics – 100m, 200m, 400m, 4x100m, Long Jump (men and women),\n
+(maximum entries per institute in each of these events is 2\n\n
+2. Badminton – Men  Women (maximum members in team is 4).\n\n\n
+3. Basketball – Men  Women (maximum members in team is 10).\n\n\n
+4. Chess – Men (maximum members in team is 4).\n\n
+5\n. Football – Men (maximum members in team is 14).\n\n
+6. \nLawn Tennis – Men (maximum members in team is 4).\n\n
+7. Table \nTennis – Men  Women (maximum members in team is 4).\n\n
+8. Volleyba\nll – Men (maximum members in team is 10).\n\n
+9. Cricket – \nMen (maximum members in team is 14).\n\n
+GUIDELINES\n\n\n\n
+1. The registration forms should be submitted latest by February 5th, 2017 via email
+to ‘oscurja17@gmail.com’.\n
+2. Rs - 700 per participant registration (includes accommodation fees
+and food charges for 9 meals)\n
+3. The registration fees can be paid through demand draft in favour of ‘Thapar
+University Amalgamated Fund’ payable at Patiala. On-the-spot payment method
+is also available.\n
+4. Each participant should bring his/her college/university identity card which will
+be submitted at the time of registration.\n
+5. All the sports shall follow international guidelines and adhere to the judgement
+of the umpire/referee.\n
+6. Every contingent shall be headed by a Faculty In charge who thereby will
+be informed/updated with the schedule and paperwork.\n
+7. The disciplinary code of Thapar University is to be strictly followed by all the
+participants. Failing to adhere to the same will lead to immediate suspension
+from the tournament.\n
+8. If the number of teams participating in a game is less than 4, then there will be no
+cash price, and if the number of teams participating is 4 or more than 4, then
+there will be prize for both first as well as the second position.\n
+9. The fete arena and the sports facilities will be open for the participants
+for practice and warm-up.\n
+10. The post-games activities can only be entered upon after producing the fest’s ID
+card which will be given to every member of the contingent at the time of
+registration.\n
+11. Accommodation shall be provided in the college Hostels. Code of conduct of
+hostels is applicable to all the participants.\n
+12. Food will be provided in Hostel Mess.\n
+13. No participant is allowed to stay in any other area other than the allotted one.\n
+14. Entry to the mess will be allowed by the coupons provided to the faculty at the
+time of registration.\n
+15. No college team would be allowed to enter the tournament without a faculty
+in charge and I-cards of the participating students.\n
+
+RULES\n
+ALL THE GAMES SHALL BE PLAYED IN ACCORDANCE WITH ALL INDIA\n
+UNIVERSITY (AIU) RULES\n
+DELAY OF MORE THAN 15 MINUTES SHALL RESULT IN A WALK OVER\n\n
+ATHLETICS\n
+Rules:\n
+a) Every individual must hold a valid college identification card.\n
+b) Common equipment to be used in the competition will be provided.\n
+c) Maximum 2 entries are allowed for each event from one college and\n
+one participant can do maximum of 2 events apart from relays.\n
+d) Depending upon the number of participants, events can have heats, semifinals
+and/or direct finals.\n
+e) All international rules to apply.\n
+f) All participants must be registered at least a day before in order to compete
+and report half an hour before the scheduled time, failing in which will
+result in cancellation of participation.\n
+g) Any misconduct will be strictly dealt with.\n
+h) All officials and referees will be the final authority in case of any disputes.\n\n
+BADMINTON\n
+Rules:\n
+a) The tournament for men and women section will be conducted on the lines of
+Inter State Badminton Championship. Ties for men and women will be
+separately decided according to the pattern given below.\n
+b) The tie for men shall be decided by the combined result of 3 singles and 2
+doubles and for women by the results of 2 singles and one doubles. Result of a
+tie, however, can be declared when either of the competing teams wins 3
+matches in men’s section and 2 matches in the women’s section.\n
+c) Result (Men and Women) by best of three sets (each set of 21 points).
+d) The order of events shall be as follows:\n
+• MEN: First Singles/Second Singles/First Doubles/Third
+Singles/Second Doubles\n
+• WOMEN: First Singles/Doubles /Second Singles\n
+e) Number of players:\n
+• MEN: The number of players representing any team can
+be a maximum of 4 members.\n
+• WOMEN: The number of players representing any team can
+be a maximum of 4 members.\n
+Tournament will follow the knockout format\n\n\n
+BASKETBALL\n
+Rules:\n
+a) The knockout format of the tournament shall be applicable.\n
+b) The number of players representing any team will not be more than
+10 in case of men.\n
+c) The number of players representing any team will not be more than
+10 in case of women.\n
+d) During matches if the score is same after the end of the scheduled
+time, Basketball Federation Rules will be applied, i.e. the game shall
+continue with as many extra periods of 5 minutes as is necessary to
+break the tie.\n\n\n
+CHESS\n
+Rules:
+a) All the International Chess Rules laid in FIDA rule book will be followed
+in the tournament. These are as follows:\n
+i. Touch and Move\n
+ii. En passant\n
+iii. Castling\n
+iv. Stalemate\n
+v. Threefold repetition\n
+vi. Fifty move rule\n
+b) There will be a timer in each game.\n
+c) Every team should have 5 players.\n
+d) Black and White will be decided by a toss.\n
+e) Decision of judge will be final in case of any discrepancy.\n\n\n
+FOOTBALL\n
+Rules:\n
+a) Knockout format of the tournament shall be applicable.\n
+b) The duration of each match shall be 70 minutes (35-5-35). During the knock
+out stage and semi-finals, after the expiry of play-time, if the tie still persists,
+the penalty shootout will be used as the tie breaker.\n
+c) Every team should submit a list of players, not exceeding 14, who
+may participate in the tournament.\n
+d) A player must not use equipment or wear anything that is dangerous
+to himself or another player (including any kind of jewellery).\n
+e) In case of tie in finals extra time of (7.5 mins x 2) will be provided. If tie
+still persists then penalty shootout will be used as a tie breaker.\n
+f) The decision of the referee is final and absolute.\n
+g) Teams must be ready to enter the field at least 15 minutes prior to their
+scheduled game.\n\n\n\n
+LAWN TENNIS\n
+Rules:\n
+a) The knockout format of the tournament shall be applicable.\n
+b) The matches of the initial rounds will comprise of best of 15 games with two
+singles and one doubles in the following order: first singles, doubles, second
+singles.\n
+c) At 7 each, the match will be decided by the tie break\n.
+d) The matches will be of best of three sets from the semi-finals\n.
+e) The results of the full match shall be declared when either of them wins
+two matches.\n
+f) The tennis Tie Break Rules shall be applied in all the sets.\n
+g) The number of players representing an institute shall not be less than two
+or more than four.\n\n\n\n
+TABLE TENNIS\n
+Rules:\n
+a) The knockout format of the tournament shall be applicable.\n
+b) Matches will be held on the basis of five singles.\n
+c) Each match shall be played on best of five games basis with each game
+of 11 points.\n
+d) Standard ITTF rules apply.\n\n\n\n
+VOLLEYBALL\n
+Rules:\n
+a) Every team shall submit a list of players, not exceeding 10.\n
+b) The tournament shall be played on knockout basis. The knockout matches
+shall be played on best of 3 sets and the final shall be best of 5 sets.\n\n\n
+CRICKET\n
+Rules:\n
+a) Most recent ICC principles will be connected.\n
+b) Umpire choices should be last and the Organizing board holds the privilege
+to forbid a player from playing further.\n
+c) Most extreme of 14 players are permitted in a group.\n
+d) Every match will be of 20 overs played with SG-Club calfskin ball.\n
+e) In the event, the sledging is discovered hostile to any player and etiquette
+of the diversion is aggravated, the umpire and the arranging group holds
+the privilege to refuse a player from further playing.\n
+"/>
+
+</ScrollView>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_rules_cricket"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+       android:background="@android:color/black"
+    android:layout_height="match_parent"
+    tools:context="com.siddartha.maram.sai.Rules_cricket">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="37dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="BATTLEFIELD RULES"
+        android:paddingBottom="15dp"
+    android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+1.Tennis Ball Tournament"
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2.10 Over Tournament
+" android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Power Play:"
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3.First two over mandatory"
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4.One over bowling power-play."
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5.One over batting power-play."
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6.11-member Team required."
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7.Registration Fee: ₹100 per member."
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8.Rest all ICC rules followed."
+        android:textColor="@android:color/white"/>
+
+
+
+</LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_rp_singh"
+    android:background="@android:color/black"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.siddartha.maram.sai.Rp_singh">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="40dp"
+        android:layout_height="wrap_content"
+        android:text="Rudra Pratap Singh"
+        android:layout_marginBottom="16dp"
+        android:textStyle="bold"
+        android:textColor="#FFEFEB9A"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FFEFEB9A"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="9dp"
+        android:layout_marginBottom="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="You Heard it right!! It is this superStar coming down to share his experience and his wonderful journey in the most loved sport in India!"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:textColor="#FFF"
+        android:text="Having played for the international Side and sharing the same dressing room with other legends, it is for sure going to be one hell of a session in Thapar!"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#FFF"
+        android:textSize="20dp"
+
+        android:textStyle="bold"
+        android:text="So make sure to attend the"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Closing Cermony"
+        android:textColor="@android:color/darker_gray"
+        android:textStyle="bold"
+        android:textSize="30dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rpyoutube"
+        android:id="@+id/rp_live"
+
+        android:text="WATCH RP at his best"/>
+
+
+</LinearLayout>
+</ScrollView>

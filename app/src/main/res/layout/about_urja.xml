@@ -1,0 +1,44 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.siddartha.maram.sai.Main2Activity$PlaceholderFragment">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/urjasplash2">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" URJA 2K17 is the annual Sports fest of Thapar University. The Sport fest has myriads of tournaments that include Athletics, Cricket, Football, Lawn Tennis, Volleyball, Basketball, Badminton, Chess and Table-Tennis.
+
+We at Thapar University, have always worked towards fostering a strong sporting culture that gives our students the impetus they need, to not only win silverware for the university, but also to enable them to do the most important thing- staying fit and healthy- through the sport they like."
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:fontFamily="sans-serif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="There is a huge variety of sports facilities available for sports enthusiasts. Some of the many options include Basketball, Football, Cricket, Badminton, Volleyball, Tennis, Table Tennis, Athletics and Chess. The University currently has three outdoor Basketball courts, four outdoor Tennis courts, a huge football field, one cricket ground, one indoor badminton court, two volleyball courts and many more facilities available for indoor sports.
+
+ We at Thapar University are very ambitious about URJA 2K17 and so we want URJA 2K17 to be a spectacle of even more grandeur and fanfare than last year. Scheduled to be hosted on 17th, 18th and 19th of February, we want you to join us in our endeavor to make this event amazing."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"
+
+        android:textSize="19dp"
+        />
+</LinearLayout>
+</RelativeLayout>
+</ScrollView>

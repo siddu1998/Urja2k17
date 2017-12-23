@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ad_table_tennis"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/avon2"
+    tools:context="com.siddartha.maram.sai.Ad_tableTennis">
+
+    <Button
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:text="X"
+        android:id="@+id/skip_tableTennis_ad"
+        android:layout_alignParentRight="true"
+        android:background="@android:color/holo_orange_dark"
+        />
+
+
+</RelativeLayout>
